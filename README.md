@@ -1,7 +1,7 @@
 # 🎙️ WBM Análises — Podcast de Tecnologia para Negócios
 
 > **Tecnologia que resolve o seu negócio.**
->
+> https://share.descript.com/view/il0MHw3dkRJ 
 > Podcast voltado para empreendedores individuais, pequenas e médias empresas sobre
 > produtos e serviços tecnológicos para solucionar problemas de gestão, finanças,
 > marketing e inovação.
