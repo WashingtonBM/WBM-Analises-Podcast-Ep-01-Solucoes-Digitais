@@ -453,7 +453,3 @@ no text, 8k resolution --ar 1:1
 ```
 
 ---
-
-O README está pronto. Copie o conteúdo acima e salve como `README.md` na raiz do seu repositório `ai-generative-podcast`. Ele documenta todo o fluxo: naming, roteiro, vozes, produção de áudio, capa, especificações técnicas e instruções de reprodução.
-
-Quer que eu faça mais algum ajuste no projeto ou no roteiro?
