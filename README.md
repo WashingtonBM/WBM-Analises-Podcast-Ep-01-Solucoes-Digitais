@@ -449,7 +449,7 @@ no text, 8k resolution --ar 1:1
 ---
 
 *WBM Análises — Tecnologia que resolve o seu negócio.*
-*Produzido com Descript + ElevenLabs. 2025.*
+*Produzido com Descript + ElevenLabs. 2026.*
 ```
 
 ---
